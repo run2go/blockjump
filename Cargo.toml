@@ -1,0 +1,8 @@
+[package]
+name = "block_jump"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sdl2 = { version = "0.35", features = ["ttf"] }
+rand = "0.8"
